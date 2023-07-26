@@ -1,0 +1,1 @@
+createData( data => data.user)

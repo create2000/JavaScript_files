@@ -1,0 +1,13 @@
+:root{
+    --blue:blue;
+    --yellow:yellow;
+}
+
+#first{
+    color: var(--blue);
+}
+
+p{
+    --blue: #6495ed;
+    color: var(--blue);
+}
